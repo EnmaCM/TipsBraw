@@ -14,7 +14,7 @@ TB is library for creating customizable hints or tooltips for your webpages.
 * [Downloads](#how-to-install)
   * [Linux/mac](#download)
   * [Windows powershell](#download)
-* [How to add to your website]()
+* [How to add it to your website](#add-it-to-your-proyect)
 * [License](#license)
 
 
@@ -57,7 +57,7 @@ You can overwrite the default's style of the hint; Just write the class to your 
   ```
 Then extract the zip file on your proyect's folder.
 
-## **Add to your protect:**
+## **Add it to your proyect:**
 
 Write this on the head of your html:
 
