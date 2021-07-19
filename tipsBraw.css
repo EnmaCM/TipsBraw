@@ -1,0 +1,35 @@
+
+.tooltip {
+    position: absolute;
+    padding: 10px 20px;
+    border: 1px solid #b3c9ce;
+    border-radius: 4px;
+    text-align: center;
+    font: italic 14px/1.3 sans-serif;
+    color: #333;
+    background: #fff;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .3);
+    display: none;
+  }
+.show{
+    display: inline-block;
+}
+  
+button {
+    background-color: yellowgreen;
+    border: none;
+    padding: 10px;
+    color:floralwhite;
+  }
+  
+.black-tooltip .tooltip{
+    background: rgb(70, 70, 70);
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .3);
+    color: white;
+  }
+  
+.pink-tooltip .tooltip{
+    background: #E93B81;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .3);
+    color: white;
+  }
